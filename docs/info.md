@@ -9,12 +9,19 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Logic Gates are connected to inputs 0..7
+
+When a certain code is inputted the display shows an initial
 
 ## How to test
 
-Explain how to use your project
+|  input 1,2,3,4,5,6,7,8  |  output a, b, c, d, e, f, g, dp  |
+|-------------------------|----------------------------------|
+|  X X X X X X X X        |  0 0 0 0 0 0 0 0                 |
+|  0 1 1 1 0 1 1 0        |  1 1 0 1 1 0 1 0                 |
+
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I use a 7-segmented display and an 8-input DIP switch.
+
