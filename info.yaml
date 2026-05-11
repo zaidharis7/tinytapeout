@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     457571752214675457       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "first_name"      # Project title
+  title:        "3bit_ALU"      # Project title
   author:       "Zaid"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Outputs Initial when certain pin is inputted"      # One line description of what your project does
